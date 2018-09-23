@@ -1,2 +1,2 @@
 # scheduleApp
-a simple employee scheduler I created for my Manager 
+A simple employee scheduler I created for my manager 
